@@ -22,3 +22,7 @@ datapacksの中にこのsneaking_packを入れる。
 何秒間スニークしているかで判定する
 ※20ティック=1秒、100ティック=5秒間
 execute as @a if score @s sneak matches 100 run say スニーク5秒間達成！
+
+
+～禁止事項～
+自作発言
